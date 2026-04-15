@@ -1,4 +1,4 @@
-# Unit corners in smooth semigroups
+# Extremal densities for forbidden configurations in $S$-smooth numbers
 
 This repository accompanies the paper []().
 
