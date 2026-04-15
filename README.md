@@ -56,11 +56,11 @@ so, for example, `2,3,5:120` means the first `120` numbers in the semigroup gene
 For each finite set of primes `S` and each cutoff `K`, the script:
 
 1. generates the first `K` positive `S`-smooth numbers;
-2. solves the exact prefix extremal problems `f_S(k)` for `1 <= k <= K` using mixed-integer linear programming;
+2. solves the extremal problems `f_S(k)` for `1 <= k <= K`;
 3. forms the increments `Delta f_S(k)`;
 4. computes the lower and upper bounds for
    `alpha_S = c_S * sum_k Delta f_S(k) / d_k^(S)`
-   using the exact recursive tail formula for the reciprocal mass above the final smooth number.
+   using the tail formula.
 
 ## JSON output files
 
