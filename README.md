@@ -1,6 +1,6 @@
 # Extremal densities for forbidden configurations in $S$-smooth numbers
 
-This repository accompanies the paper []().
+This repository accompanies the paper [arXiv:2604.15515](https://arxiv.org/abs/2604.15515).
 
 It contains exact computation code for the density intervals discussed in the paper and machine-readable output files for the examples computed by the author so far.
 
