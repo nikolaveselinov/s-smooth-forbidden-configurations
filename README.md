@@ -7,14 +7,14 @@ It contains exact computation code for the density intervals discussed in the pa
 ## Repository layout
 
 - `scripts/`
-  - `compute_density_intervals.py` — exact prefix optimization and density-interval computation.
+  - `compute_density_intervals.py` -- exact prefix optimization and density-interval computation.
 - `data/`
-  - `alpha23_200.json` — data for `S={2,3}`, `K=200`.
-  - `alpha25_180.json` — data for `S={2,5}`, `K=180`.
-  - `alpha35_180.json` — data for `S={3,5}`, `K=180`.
-  - `alpha235_120.json` — data for `S={2,3,5}`, `K=120`.
-  - `alpha2357_80.json` — data for `S={2,3,5,7}`, `K=80`.
-  - `all_results.json` — combined output for all of the above runs.
+  - `alpha23_200.json` -- data for `S={2,3}`, `K=200`.
+  - `alpha25_180.json` -- data for `S={2,5}`, `K=180`.
+  - `alpha35_180.json` -- data for `S={3,5}`, `K=180`.
+  - `alpha235_120.json` -- data for `S={2,3,5}`, `K=120`.
+  - `alpha2357_80.json` -- data for `S={2,3,5,7}`, `K=80`.
+  - `all_results.json` -- combined output for all of the above runs.
 
 ## Python requirements
 
